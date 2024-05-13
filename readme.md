@@ -46,7 +46,7 @@ npm start
 L'APK è disponibile nella sezione [Releases], oppure è possibile compilare da codice sorgente:
 ```sh
 cd android
-.gradlew clean && .gradlew AssembleRelease
+./gradlew clean && ./gradlew AssembleRelease
 ```
 
 Il file APK verrà generato in `android/app/build/outputs/apk`
