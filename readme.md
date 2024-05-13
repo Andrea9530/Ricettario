@@ -34,8 +34,9 @@ npm install react-native-screens react-native-safe-area-context
 ```
 
 # Linking (solo per Android)
+```sh
 npx react-native link
-
+```
 # Avvio
 ```sh
 npm start
