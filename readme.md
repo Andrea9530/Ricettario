@@ -21,7 +21,7 @@ Le ricette sono gestite tramite file JSON, è possibile aggiungere o modificare 
 ## Installazione
 Clona il repository
 ```sh
-git clone https://github.com/tuonome/ricettario.git
+git clone https://github.com/Andrea9530/ricettario.git
 ```
 Naviga nella directory del progetto
 ```sh
