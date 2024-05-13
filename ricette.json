@@ -1,0 +1,620 @@
+[
+  {
+    "id": 1,
+    "nome": "Pasta al Pomodoro",
+    "preferito": true,
+    "tempoPreparazione": "10 minuti",
+    "tempoCottura": "20 minuti",
+    "difficoltà": "Facile",
+    "portata": "Primo",
+    "porzioni": 4,
+    "ingredienti": [
+      [400, "g spaghetti"],
+      [300, "g pomodori pelati"],
+      [1, " spicchio d'aglio"],
+      [null, " olio d'oliva"],
+      [null, " sale q.b."],
+      [null, " pepe q.b."],
+      [null, " basilico fresco"]
+    ],
+    "procedimento": [
+      "1. Cuocere gli spaghetti in acqua salata.",
+      "2. In una padella, far soffriggere l'aglio con olio d'oliva.",
+      "3. Aggiungere i pomodori pelati e cuocere per 10 minuti.",
+      "4. Scolare gli spaghetti al dente e condire con il sugo.",
+      "5. Aggiungere basilico fresco e pepe a piacere."
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Pollo al Limone",
+    "preferito": false,
+    "tempoPreparazione": "15 minuti",
+    "tempoCottura": "25 minuti",
+    "difficoltà": "Media",
+    "portata": "Secondo",
+    "porzioni": 2,
+    "ingredienti": [
+      [300, "g petto di pollo"],
+      [2, " limoni"],
+      [50, "g burro"],
+      [null, " sale q.b."],
+      [null, " pepe q.b."],
+      [null, " prezzemolo fresco"]
+    ],
+    "procedimento": [
+      "1. Tagliare il petto di pollo a fette sottili.",
+      "2. In una padella, far rosolare il pollo con burro.",
+      "3. Spremere il succo di un limone e aggiungerlo al pollo.",
+      "4. Aggiustare di sale e pepe.",
+      "5. Cuocere fino a doratura uniforme.",
+      "6. Servire con fettine di limone e prezzemolo fresco."
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Tiramisù",
+    "preferito": true,
+    "tempoPreparazione": "30 minuti",
+    "tempoCottura": "0 minuti",
+    "difficoltà": "Difficile",
+    "portata": "Dolce",
+    "porzioni": 6,
+    "ingredienti": [
+      [250, "g mascarpone"],
+      [300, "g savoiardi"],
+      [3, " uova"],
+      [100, "g zucchero"],
+      [200, "ml caffè espresso freddo"],
+      [50, "g cacao amaro in polvere"]
+    ],
+    "procedimento": [
+      "1. Separare i tuorli dagli albumi.",
+      "2. Montare i tuorli con lo zucchero fino ad ottenere una crema.",
+      "3. Aggiungere il mascarpone alla crema e mescolare bene.",
+      "4. Montare gli albumi a neve ferma e incorporarli delicatamente alla crema.",
+      "5. Inzuppare i savoiardi nel caffè e disporli in uno stampo.",
+      "6. Coprire con uno strato di crema al mascarpone.",
+      "7. Continuare alternando strati di savoiardi e crema.",
+      "8. Livellare la superficie e cospargere con il cacao in polvere.",
+      "9. Refrigerare per almeno 4 ore prima di servire."
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Insalata Caprese",
+    "preferito": false,
+    "tempoPreparazione": "10 minuti",
+    "tempoCottura": "0 minuti",
+    "difficoltà": "Facile",
+    "portata": "Antipasto",
+    "porzioni": 2,
+    "ingredienti": [
+      [200, "g mozzarella di bufala"],
+      [2, " pomodori"],
+      [null, "foglie di basilico fresco"],
+      [null, "olio extravergine d'oliva"],
+      [null, "sale q.b."],
+      [null, "pepe q.b."]
+    ],
+    "procedimento": [
+      "1. Affettare i pomodori e la mozzarella.",
+      "2. Disporre a strati alternati su un piatto da portata.",
+      "3. Condire con foglie di basilico, olio, sale e pepe."
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Risotto ai Funghi",
+    "preferito": true,
+    "tempoPreparazione": "10 minuti",
+    "tempoCottura": "20 minuti",
+    "difficoltà": "Media",
+    "portata": "Primo",
+    "porzioni": 4,
+    "ingredienti": [
+      [320, "g riso Arborio"],
+      [200, "g funghi porcini freschi"],
+      [1, " cipolla"],
+      [50, "g burro"],
+      [60, "g parmigiano grattugiato"],
+      [100, "ml vino bianco secco"],
+      [1000, "ml brodo vegetale"],
+      [null, "sale q.b."],
+      [null, "pepe q.b."]
+    ],
+    "procedimento": [
+      "1. Pulire e affettare i funghi porcini e la cipolla.",
+      "2. In una pentola, far rosolare la cipolla con il burro.",
+      "3. Aggiungere i funghi e cuocere per qualche minuto.",
+      "4. Aggiungere il riso e tostare per un paio di minuti.",
+      "5. Sfumare con il vino bianco e lasciar evaporare.",
+      "6. Aggiungere gradualmente il brodo caldo al riso, mescolando continuamente.",
+      "7. Continuare la cottura fino a quando il riso è al dente e cremoso.",
+      "8. Mantecare con parmigiano grattugiato, sale e pepe.",
+      "9. Servire caldo."
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Filetto di Salmone alla Griglia",
+    "preferito": true,
+    "tempoPreparazione": "5 minuti",
+    "tempoCottura": "10 minuti",
+    "difficoltà": "Facile",
+    "portata": "Secondo",
+    "porzioni": 2,
+    "ingredienti": [
+      [2, " filetti di salmone"],
+      [null, "succo di limone"],
+      [null, "sale q.b."],
+      [null, "pepe q.b."],
+      [null, "olio extravergine d'oliva"],
+      [null, "rametti di rosmarino"]
+    ],
+    "procedimento": [
+      "1. Preriscaldare la griglia.",
+      "2. Spennellare i filetti di salmone con olio d'oliva e succo di limone.",
+      "3. Condire con sale, pepe e rosmarino.",
+      "4. Grigliare il salmone per circa 5 minuti per lato o fino a cottura desiderata.",
+      "5. Servire caldo."
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Bruschetta al Pomodoro",
+    "preferito": true,
+    "tempoPreparazione": "15 minuti",
+    "tempoCottura": "5 minuti",
+    "difficoltà": "Facile",
+    "portata": "Antipasto",
+    "porzioni": 4,
+    "ingredienti": [
+      [4, " fette di pane rustico"],
+      [4, " pomodori maturi"],
+      [2, " spicchi d'aglio"],
+      [null, "olio extravergine d'oliva"],
+      [null, "sale q.b."],
+      [null, "pepe q.b."],
+      [null, "foglie di basilico fresco"]
+    ],
+    "procedimento": [
+      "1. Affettare i pomodori e strofinare l'aglio sulle fette di pane.",
+      "2. Condire le fette di pane con olio d'oliva, sale e pepe.",
+      "3. Disporre i pomodori sul pane.",
+      "4. Aggiungere basilico fresco a piacere."
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Lasagne alla Bolognese",
+    "preferito": false,
+    "tempoPreparazione": "30 minuti",
+    "tempoCottura": "40 minuti",
+    "difficoltà": "Media",
+    "portata": "Primo",
+    "porzioni": 6,
+    "ingredienti": [
+      [250, "g sfoglie di lasagna"],
+      [300, "g carne macinata di manzo"],
+      [200, "g passata di pomodoro"],
+      [1, " cipolla"],
+      [1, " carota"],
+      [1, " costola di sedano"],
+      [100, "ml vino rosso"],
+      [50, "g burro"],
+      [50, "g farina"],
+      [500, "ml latte intero"],
+      [null, "olio extravergine d'oliva"],
+      [null, "sale q.b."],
+      [null, "pepe q.b."],
+      [null, "noce moscata q.b."],
+      [null, "parmigiano grattugiato"]
+    ],
+    "procedimento": [
+      "1. Preparare il ragù: in una pentola, far rosolare la cipolla, la carota e il sedano tritati con olio d'oliva.",
+      "2. Aggiungere la carne macinata e farla rosolare.",
+      "3. Sfumare con il vino rosso e aggiungere la passata di pomodoro.",
+      "4. Cuocere a fuoco lento per almeno 30 minuti.",
+      "5. Preparare la besciamella: in un pentolino, sciogliere il burro, aggiungere la farina e mescolare.",
+      "6. Gradualmente aggiungere il latte caldo, continuando a mescolare fino a ottenere una crema.",
+      "7. Aggiustare di sale, pepe e noce moscata.",
+      "8. In una teglia, alternare strati di lasagna, ragù e besciamella.",
+      "9. Terminare con uno strato di besciamella e parmigiano grattugiato.",
+      "10. Cuocere in forno preriscaldato a 180°C per circa 40 minuti o fino a doratura."
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Torta di Mele",
+    "preferito": true,
+    "tempoPreparazione": "20 minuti",
+    "tempoCottura": "40 minuti",
+    "difficoltà": "Media",
+    "portata": "Dolce",
+    "porzioni": 8,
+    "ingredienti": [
+      [3, " mele"],
+      [150, "g zucchero"],
+      [2, " uova"],
+      [150, "g farina 00"],
+      [80, "g burro fuso"],
+      [1, " bustina di lievito per dolci"],
+      [null, "succo di limone"],
+      [null, "cannella in polvere"],
+      [null, "zucchero a velo"]
+    ],
+    "procedimento": [
+      "1. Sbucciare e affettare le mele, irrorarle con succo di limone e cannella.",
+      "2. In una ciotola, sbattere le uova con lo zucchero fino a ottenere una crema.",
+      "3. Aggiungere il burro fuso e mescolare.",
+      "4. Incorporare la farina setacciata con il lievito.",
+      "5. Versare metà dell'impasto in una teglia imburrata e infarinata.",
+      "6. Distribuire le fette di mela sulla superficie.",
+      "7. Coprire con il restante impasto.",
+      "8. Cuocere in forno preriscaldato a 180°C per circa 40 minuti o fino a doratura.",
+      "9. Spolverare con zucchero a velo prima di servire."
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Gnocchi di Patate",
+    "preferito": true,
+    "tempoPreparazione": "30 minuti",
+    "tempoCottura": "5 minuti",
+    "difficoltà": "Media",
+    "portata": "Primo",
+    "porzioni": 4,
+    "ingredienti": [
+      [800, "g patate"],
+      [200, "g farina 00"],
+      [1, " uovo"],
+      [null, "sale q.b."]
+    ],
+    "procedimento": [
+      "1. Lessare le patate finché sono morbide, quindi schiacciarle.",
+      "2. Disporre le patate su una spianatoia e aggiungere la farina a pioggia.",
+      "3. Fare una fontana e aggiungere l'uovo e il sale al centro.",
+      "4. Impastare fino a ottenere un composto omogeneo.",
+      "5. Dividere l'impasto in pezzi e formare dei rotolini.",
+      "6. Tagliare i rotolini a tocchetti e rigarli con una forchetta.",
+      "7. Cuocere gli gnocchi in acqua bollente salata finché non vengono a galla.",
+      "8. Scolare gli gnocchi e condire a piacere."
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Involtini di Melanzane alla Parmigiana",
+    "preferito": false,
+    "tempoPreparazione": "30 minuti",
+    "tempoCottura": "40 minuti",
+    "difficoltà": "Media",
+    "portata": "Contorno",
+    "porzioni": 4,
+    "ingredienti": [
+      [2, " melanzane"],
+      [200, "g mozzarella"],
+      [100, "g parmigiano grattugiato"],
+      [500, "g passata di pomodoro"],
+      [2, " spicchi d'aglio"],
+      [null, "olio extravergine d'oliva"],
+      [null, "sale q.b."],
+      [null, "pepe q.b."],
+      [null, "basilico fresco"]
+    ],
+    "procedimento": [
+      "1. Affettare le melanzane e grigliarle leggermente su entrambi i lati.",
+      "2. In una padella, preparare un sugo con la passata di pomodoro, aglio, olio, sale e pepe.",
+      "3. In una teglia, alternare strati di melanzane, mozzarella a fette, sugo e parmigiano grattugiato.",
+      "4. Terminare con uno strato di parmigiano e qualche foglia di basilico.",
+      "5. Cuocere in forno preriscaldato a 180°C per circa 40 minuti o fino a doratura."
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Panna Cotta",
+    "preferito": true,
+    "tempoPreparazione": "10 minuti",
+    "tempoCottura": "5 minuti",
+    "difficoltà": "Facile",
+    "portata": "Dolce",
+    "porzioni": 4,
+    "ingredienti": [
+      [500, "ml panna fresca liquida"],
+      [100, "g zucchero"],
+      [2, "f ogli di gelatina"],
+      [1, " baccello di vaniglia"],
+      [null, "frutti di bosco q.b."]
+    ],
+    "procedimento": [
+      "1. Ammollare la gelatina in acqua fredda per qualche minuto.",
+      "2. In una pentola, far scaldare la panna con lo zucchero e il baccello di vaniglia.",
+      "3. Strizzare la gelatina e aggiungerla alla panna calda, mescolando fino a sciogliersi completamente.",
+      "4. Versare la panna cotta negli stampini e lasciar raffreddare a temperatura ambiente.",
+      "5. Refrigerare per almeno 4 ore o fino a solidificazione.",
+      "6. Servire con frutti di bosco freschi."
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Spaghetti Carbonara",
+    "preferito": true,
+    "tempoPreparazione": "10 minuti",
+    "tempoCottura": "10 minuti",
+    "difficoltà": "Facile",
+    "portata": "Primo",
+    "porzioni": 4,
+    "ingredienti": [
+      [400, "g spaghetti"],
+      [150, "g guanciale"],
+      [3, " uova"],
+      [100, "g pecorino romano grattugiato"],
+      [null, "pepe nero q.b."]
+    ],
+    "procedimento": [
+      "1. Cuocere gli spaghetti in acqua bollente salata secondo le istruzioni sulla confezione.",
+      "2. Tagliare il guanciale a cubetti e farlo dorare in una padella antiaderente fino a renderlo croccante.",
+      "3. In una ciotola, sbattere le uova con il pecorino romano grattugiato e abbondante pepe nero.",
+      "4. Scolare gli spaghetti al dente e versarli nella padella con il guanciale, mescolando bene.",
+      "5. Togliere la padella dal fuoco e aggiungere la miscela di uova e formaggio, mescolando rapidamente per evitare che le uova si rapprendano troppo.",
+      "6. Servire immediatamente, aggiungendo altro pecorino e pepe nero a piacere."
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Polpette di Carne",
+    "preferito": false,
+    "tempoPreparazione": "15 minuti",
+    "tempoCottura": "20 minuti",
+    "difficoltà": "Media",
+    "portata": "Secondo",
+    "porzioni": 4,
+    "ingredienti": [
+      [500, "g carne macinata mista (manzo e maiale)"],
+      [100, "g pan grattato"],
+      [1, " uovo"],
+      [1, " spicchio d'aglio"],
+      [null, "prezzemolo fresco tritato"],
+      [null, "sale q.b."],
+      [null, "pepe q.b."],
+      [null, "olio extravergine d'oliva"]
+    ],
+    "procedimento": [
+      "1. In una ciotola, mescolare la carne macinata con il pan grattato, l'uovo, l'aglio tritato, il prezzemolo, sale e pepe.",
+      "2. Formare delle polpette rotonde e compatte.",
+      "3. In una padella, scaldare l'olio extravergine d'oliva e cuocere le polpette fino a doratura su tutti i lati.",
+      "4. Scolare le polpette su carta assorbente e servire calde."
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Torta al Cioccolato",
+    "preferito": true,
+    "tempoPreparazione": "20 minuti",
+    "tempoCottura": "40 minuti",
+    "difficoltà": "Media",
+    "portata": "Dolce",
+    "porzioni": 8,
+    "ingredienti": [
+      [200, "g cioccolato fondente"],
+      [150, "g burro"],
+      [150, "g zucchero"],
+      [4, " uova"],
+      [100, "g farina 00"],
+      [1, " bustina di lievito per dolci"],
+      [null, "zucchero a velo"]
+    ],
+    "procedimento": [
+      "1. Sciogliere il cioccolato fondente a bagnomaria insieme al burro.",
+      "2. In una ciotola, sbattere le uova con lo zucchero fino a ottenere una crema chiara e spumosa.",
+      "3. Incorporare il cioccolato fuso alla miscela di uova e zucchero.",
+      "4. Setacciare la farina con il lievito e aggiungerla al composto, mescolando delicatamente.",
+      "5. Versare l'impasto in una teglia imburrata e infarinata.",
+      "6. Cuocere in forno preriscaldato a 180°C per circa 40 minuti o fino a quando la superficie è soda al tatto.",
+      "7. Lasciare raffreddare la torta prima di spolverare con zucchero a velo."
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Insalata di Quinoa",
+    "preferito": true,
+    "tempoPreparazione": "15 minuti",
+    "tempoCottura": "15 minuti",
+    "difficoltà": "Facile",
+    "portata": "Contorno",
+    "porzioni": 4,
+    "ingredienti": [
+      [200, "g quinoa"],
+      [1, " peperone rosso"],
+      [1, " peperone giallo"],
+      [1, " peperone verde"],
+      [1, " cetriolo"],
+      [1, " cipolla rossa"],
+      [1, " limone (succo)"],
+      [null, "olio extravergine d'oliva"],
+      [null, "sale q.b."],
+      [null, "pepe q.b."],
+      [null, "prezzemolo fresco tritato"]
+    ],
+    "procedimento": [
+      "1. Cuocere la quinoa secondo le istruzioni sulla confezione, quindi lasciarla raffreddare.",
+      "2. Tagliare a dadini i peperoni, il cetriolo e la cipolla rossa.",
+      "3. In una ciotola grande, mescolare la quinoa con i peperoni, il cetriolo e la cipolla.",
+      "4. Condire con succo di limone, olio d'oliva, sale, pepe e prezzemolo fresco.",
+      "5. Mescolare bene e servire."
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Frittata di Verdure",
+    "preferito": false,
+    "tempoPreparazione": "10 minuti",
+    "tempoCottura": "15 minuti",
+    "difficoltà": "Facile",
+    "portata": "Secondo",
+    "porzioni": 4,
+    "ingredienti": [
+      [6, " uova"],
+      [1, " zucchina"],
+      [1, " peperone"],
+      [1, " cipolla"],
+      [null, "formaggio grattugiato (a piacere)"],
+      [null, "olio extravergine d'oliva"],
+      [null, "sale q.b."],
+      [null, "pepe q.b."],
+      [null, "prezzemolo fresco tritato"]
+    ],
+    "procedimento": [
+      "1. Tagliare a dadini le verdure e soffriggerle in una padella con olio d'oliva fino a quando sono tenere.",
+      "2. In una ciotola, sbattere le uova con sale, pepe, prezzemolo e formaggio grattugiato.",
+      "3. Aggiungere le verdure alle uova sbattute e mescolare bene.",
+      "4. Versare il composto in una padella calda leggermente oliata.",
+      "5. Cuocere a fuoco medio-basso finché la frittata è dorata su entrambi i lati.",
+      "6. Tagliare a spicchi e servire calda o a temperatura ambiente."
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Tiramisù alle Fragole",
+    "preferito": true,
+    "tempoPreparazione": "30 minuti",
+    "tempoCottura": "0 minuti",
+    "difficoltà": "Media",
+    "portata": "Dolce",
+    "porzioni": 6,
+    "ingredienti": [
+      [250, "g mascarpone"],
+      [300, "g fragole"],
+      [200, "g savoiardi"],
+      [3, " uova"],
+      [100, "g zucchero"],
+      [200, "ml caffè espresso freddo"],
+      [null, "liquore alle fragole (facoltativo)"],
+      [null, "cacao in polvere"]
+    ],
+    "procedimento": [
+      "1. Lavare e tagliare le fragole a fettine, quindi metterle da parte.",
+      "2. Separare i tuorli dagli albumi.",
+      "3. Montare i tuorli con lo zucchero fino a ottenere una crema chiara e spumosa.",
+      "4. Aggiungere il mascarpone alla crema e mescolare delicatamente.",
+      "5. Montare gli albumi a neve ferma e incorporarli delicatamente alla crema.",
+      "6. Inzuppare i savoiardi nel caffè (e liquore, se utilizzato) e disporli in uno stampo.",
+      "7. Coprire con uno strato di crema al mascarpone.",
+      "8. Aggiungere le fragole sopra la crema.",
+      "9. Continuare alternando strati di savoiardi, crema e fragole.",
+      "10. Livellare la superficie e cospargere con cacao in polvere.",
+      "11. Refrigerare per almeno 4 ore prima di servire."
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Cannoli Siciliani",
+    "preferito": false,
+    "tempoPreparazione": "60 minuti",
+    "tempoCottura": "30 minuti",
+    "difficoltà": "Media",
+    "portata": "Dolce",
+    "porzioni": 4,
+    "ingredienti": [
+      [200, "g di farina 00"],
+      [30, "g di zucchero"],
+      [30, "g di burro"],
+      [1, " uovo"],
+      [30, "ml di vino Marsala"],
+      [50, "g di aceto di vino bianco"],
+      [200, "g di ricotta fresca"],
+      [50, "g di zucchero a velo"],
+      [50, "g di gocce di cioccolato fondente"],
+      [null, "un pizzico di sale"],
+      [null, "scorza d'arancia candita q.b"],
+      [null, "zucchero a velo per spolverare q.b."],
+      [null, "olio di semi di arachide per friggere"]
+    ],
+    "procedimento": [
+      "1. In una ciotola, setacciare la farina e unire lo zucchero, il burro ammorbidito, l'uovo, il Marsala, l'aceto e il sale.",
+      "2. Lavorare gli ingredienti fino a ottenere un impasto omogeneo e liscio.",
+      "3. Avvolgere l'impasto in pellicola trasparente e farlo riposare in frigorifero per almeno 30 minuti.",
+      "4. Stendere l'impasto su una superficie infarinata fino ad ottenere una sfoglia sottile.",
+      "5. Tagliare la sfoglia in cerchi di circa 10 cm di diametro.",
+      "6. Avvolgere ciascun cerchio di pasta intorno a un cannolo di metallo o legno precedentemente unto con olio.",
+      "7. Friggere i cannoli in olio caldo (circa 170°C) fino a doratura.",
+      "8. Scolare i cannoli su carta assorbente e lasciarli raffreddare completamente.",
+      "9. Nel frattempo, preparare il ripieno mescolando la ricotta con lo zucchero a velo e le gocce di cioccolato.",
+      "10. Riempire i cannoli con il ripieno utilizzando una sac à poche.",
+      "11. Decorare le estremità dei cannoli con scorza d'arancia candita.",
+      "12. Spolverare i cannoli con zucchero a velo prima di servire."
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Pizza Margherita",
+    "preferito": false,
+    "tempoPreparazione": "120 minuti",
+    "tempoCottura": "15 minuti",
+    "difficoltà": "Media",
+    "portata": "Primo piatto",
+    "porzioni": 4,
+    "ingredienti": [
+      [250, "g di impasto per pizza"],
+      [100, "g di salsa di pomodoro"],
+      [200, "g di mozzarella di bufala"],
+      [null, "foglie di basilico fresco"],
+      [null, "olio extravergine d'oliva q.b."],
+      [null, "sale q.b."],
+      [null, "pepe q.b."]
+    ],
+    "procedimento": [
+      "1. Prepara l'impasto per la pizza seguendo la tua ricetta preferita o acquistandolo già pronto.",
+      "2. Dividi l'impasto in palline e lasciale lievitare coperte da un canovaccio per almeno un'ora.",
+      "3. Stendi ogni pallina di impasto su una teglia leggermente infarinata fino a ottenere una base sottile.",
+      "4. Spalma uniformemente la salsa di pomodoro sulla base della pizza.",
+      "5. Distribuisci le fette di mozzarella sulla salsa di pomodoro.",
+      "6. Aggiungi le foglie di basilico fresco a piacere.",
+      "7. Condisci con un filo d'olio extravergine d'oliva, sale e pepe a piacere.",
+      "8. Inforna la pizza in forno preriscaldato a 220°C per circa 12-15 minuti o fino a quando il bordo risulta dorato e croccante.",
+      "9. Togli la pizza dal forno, tagliala a fette e servila calda."
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Tagliatelle alla Bolognese",
+    "preferito": false,
+    "tempoPreparazione": "30 minuti",
+    "tempoCottura": "120 minuti",
+    "difficoltà": "Media",
+    "portata": "Primo piatto",
+    "porzioni": 4,
+    "ingredienti": [
+      [300, "g di tagliatelle all'uovo"],
+      [250, "g di carne macinata di manzo"],
+      [100, "g di pancetta"],
+      [1, " cipolla"],
+      [1, " carota"],
+      [1, " costola di sedano"],
+      [400, "g di passata di pomodoro"],
+      [200, "ml di brodo di carne"],
+      [60, "ml di vino rosso"],
+      [30, "g di burro"],
+      [30, "g di olio extravergine d'oliva"],
+      [30, "g di parmigiano reggiano grattugiato"],
+      [null, "sale q.b."],
+      [null, "pepe q.b."]
+    ],
+    "procedimento": [
+      "1. In una pentola capiente, scalda l'olio extravergine d'oliva e il burro a fuoco medio.",
+      "2. Aggiungi la pancetta tritata finemente e fai rosolare fino a renderla croccante.",
+      "3. Aggiungi la cipolla, la carota e il sedano tritati e fai cuocere finché saranno dorati.",
+      "4. Aggiungi la carne macinata e fai rosolare fino a che non sarà ben dorata e sbriciolata.",
+      "5. Sfuma con il vino rosso e lascia evaporare l'alcol.",
+      "6. Aggiungi la passata di pomodoro e il brodo di carne, mescola bene e porta a ebollizione.",
+      "7. Abbassa il fuoco, copri parzialmente con un coperchio e lascia cuocere a fuoco lento per almeno 1 ora e 30 minuti, mescolando di tanto in tanto.",
+      "8. Nel frattempo, porta a ebollizione una pentola d'acqua salata e cuoci le tagliatelle al dente secondo le istruzioni sulla confezione.",
+      "9. Scola le tagliatelle e aggiungile direttamente nella pentola con il condimento bolognese.",
+      "10. Mescola bene le tagliatelle con la salsa, aggiusta di sale e pepe se necessario e lascia insaporire per qualche minuto.",
+      "11. Servi le tagliatelle alla bolognese calde, cospargendole con abbondante parmigiano reggiano grattugiato."
+    ]
+  }
+  
+  
+  
+]
