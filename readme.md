@@ -34,14 +34,7 @@ Installazione di React Navigation
 ```sh
 npm install
 npm install @react-navigation/native
-npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
-```
-## Yarn
-Installazione di React Navigation
-```sh
-yarn install
-yarn add @react-navigation/native
-yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+npm install react-native-screens react-native-safe-area-context
 ```
 
 # Linking (solo per Android)
@@ -53,10 +46,6 @@ npx react-native link
 npm start
 ```
 
-## Yarn
-```sh
-yarn start
-```
 # Generazione APK(Android)
 L'APK è disponibile nella sezione [Releases], oppure è possibile compilare da codice sorgente:
 ```sh
