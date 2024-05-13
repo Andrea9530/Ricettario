@@ -42,7 +42,7 @@ npm start
 ```
 
 # Generazione APK(Android)
-L'APK è disponibile nella sezione [Releases], oppure è possibile compilare da codice sorgente:
+L'APK è disponibile nella sezione [Releases](https://github.com/Andrea9530/Ricettario/releases/tag/Release), oppure è possibile compilare da codice sorgente:
 ```sh
 cd android
 ./gradlew clean && ./gradlew AssembleRelease
