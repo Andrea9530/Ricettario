@@ -24,12 +24,8 @@ Clona il repository
 git clone https://github.com/Andrea9530/ricettario.git
 ```
 Naviga nella directory del progetto
-```sh
-cd ricettario
-```
 
 # Installazione dipendenze
-## NPM
 Installazione di React Navigation
 ```sh
 npm install
@@ -41,7 +37,6 @@ npm install react-native-screens react-native-safe-area-context
 npx react-native link
 
 # Avvio
-## NPM
 ```sh
 npm start
 ```
