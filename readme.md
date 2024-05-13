@@ -11,7 +11,6 @@ Le ricette sono gestite tramite file JSON, è possibile aggiungere o modificare 
 - Dosi ingredienti personalizzabile in base alle pozioni necessarie
 
 ## Requisiti
-<!-- Elenco dei requisiti necessari per eseguire il progetto -->
 
 - Node.js e npm (o Yarn)
 - React Native CLI
@@ -23,10 +22,10 @@ Clona il repository
 ```sh
 git clone https://github.com/Andrea9530/ricettario.git
 ```
-Naviga nella directory del progetto
+Copia i file sorgente nella directory di un progetto react native e naviga nella directory
 
 # Installazione dipendenze
-Installazione di React Navigation
+Installazione di React Navigation e safe area content
 ```sh
 npm install
 npm install @react-navigation/native
@@ -49,4 +48,4 @@ cd android
 ./gradlew clean && ./gradlew AssembleRelease
 ```
 
-Il file APK verrà generato in `android/app/build/outputs/apk`
+Il file APK verrà generato in `android/app/build/outputs/apk/release`
