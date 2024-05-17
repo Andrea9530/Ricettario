@@ -4,6 +4,15 @@
 L'applicazione permette di consultare diverse ricette, con varie funzioni di visualizzazione e personalizzazione.\
 Le ricette sono gestite tramite file JSON, è possibile aggiungere o modificare ricette modificando il file [`ricette.json`](ricette.json)
 
+<p align="center">
+  <img src="https://github.com/Andrea9530/Ricettario/assets/65161045/8e157d76-c74d-45a9-a18f-0b1bbe7d611d" alt="Pagina Home" width="320" />
+  <img src="https://github.com/Andrea9530/Ricettario/assets/65161045/849bfc88-42c1-4cdc-8729-d93a208033ca" alt="Filtri ricerca" width="320" />
+  <img src="https://github.com/Andrea9530/Ricettario/assets/65161045/989bd30d-bed1-4f14-af96-bf73635db5d7" alt="Pagina ricetta" width="320" />
+</p>
+
+
+
+
 ## Funzionalità Principali
 - Ricerca ricette per nome
 - Filtro ricette in base al tipo di piatto e difficoltà
