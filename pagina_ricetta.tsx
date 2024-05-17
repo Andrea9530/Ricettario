@@ -36,7 +36,6 @@ export default function PaginaRicetta({route}) {
             <View style={styles.menu_dose}>
               <Text style={styles.testo_dose}>Dose per:</Text>
               <TouchableOpacity onPress={() => {persone == 1? () => {}: setPersone(persone - 1)}} style={[styles.pulsanti_dose]}><Text style={{textAlign: 'center', fontSize: 45, marginTop: -19, color: 'white'}}>-</Text></TouchableOpacity>
-              {/*<TextInput keyboardType='numeric' value={flag? porzioni.toString(): persone.toString()} placeholderTextColor={'black'} onChangeText={(text) =>  aggiorna_persone(text)} style={{color: 'black'}}></TextInput>*/}
               <Text style={styles.testo_dose}>{persone}</Text>
               <TouchableOpacity onPress={() => setPersone(persone + 1)} style={[styles.pulsanti_dose]}><Text style={{fontSize: 30, marginTop: -6, color: 'white'}}>+</Text></TouchableOpacity>
               <Text style={styles.testo_dose}>persone</Text>
